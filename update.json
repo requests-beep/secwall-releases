@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "versionName": "1.0.19",
+  "versionCode": 21,
+  "publishedAt": "2026-07-28",
+  "minSdkVersion": 24,
+  "apkSha256": "992be15617d0703a86b16a6fce98726ef721342b3b2d5c72775f9f84d6d63d09",
+  "certSha256": "b666793e1a1c64a59c9686a4d6efb43c4bedd3f0ddc6bb73d5ba977b9c554b15",
+  "sourceCommit": "099fabbf17ab05501efd29cb43b573938fc82dcb",
+  "sizeBytes": 341277,
+  "releasePage": "https://github.com/requests-beep/secwall-releases/releases/latest"
+}
