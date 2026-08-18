@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "versionName": "1.3.1",
-  "versionCode": 28,
+  "versionName": "1.3.2",
+  "versionCode": 29,
   "publishedAt": "2026-08-18",
   "minSdkVersion": 24,
-  "apkSha256": "af99e66ba67ab812474f2bdcc4ad84c1ccccf250607c3b693ffbd22bd4657614",
+  "apkSha256": "0f42aef32147f09c985254f880a8ba80bfe3bc7fca93a6163a3eb02c6ccbc21c",
   "certSha256": "f2ecb6f1bcbde758ac35f14d67f85bcb62db554b63117e6225cf329e6deb3fe8",
-  "sourceCommit": "9792f368f462a4b56de461f554fc55c42e4d0870",
-  "sizeBytes": 386511,
+  "sourceCommit": "01eeaf28f63db204784d4085da8d02dcdb4f9d21",
+  "sizeBytes": 386512,
   "releasePage": "https://github.com/requests-beep/secwall-releases/releases/latest"
 }
